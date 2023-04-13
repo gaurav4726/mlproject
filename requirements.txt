@@ -7,4 +7,5 @@ scikit-learn
 catboost
 xgboost
 dill
+Flask
 #-e .  #Use when you want to create package 
