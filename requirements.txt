@@ -1,4 +1,10 @@
 pandas
 numpy
+sklearn
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+#-e .  #Use when you want to create package 
